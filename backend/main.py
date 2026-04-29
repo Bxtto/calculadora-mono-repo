@@ -201,3 +201,5 @@ def dividir(datos: Operacion, request: Request):
         "Operacion", rid, {"a": datos.a, "b": datos.b, "res": resultado},
     )
     return {"resultado": resultado}
+
+#comentario para pr y branch protection
