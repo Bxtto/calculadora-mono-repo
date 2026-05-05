@@ -6,7 +6,7 @@ on:
     paths:
       - "backend/**"
       - "frontend/**" 
-      - ".github/workflows/push-ecr.yml" # <-- ¡AÑADE ESTA LÍNEA!
+      - ".github/workflows/push-ecr.yml" # <-- ¡AÑADE ESTA LÍNEA!, 
  
 permissions:
   id-token: write
